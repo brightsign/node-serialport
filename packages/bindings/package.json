@@ -10,7 +10,7 @@
     "@serialport/parser-readline": "^9.0.0",
     "bindings": "^1.5.0",
     "debug": "^4.1.1",
-    "nan": "^2.14.1",
+    "nan": "github:brightsign/nan#6170c3b",
     "prebuild-install": "^5.3.3"
   },
   "devDependencies": {
